@@ -1,4 +1,4 @@
-* [How to use Experimentor](howto.md)
+* [How to use ExperimentorX](howtogit.md)
 
 * [Session 0 - Setup](session0.md)
 

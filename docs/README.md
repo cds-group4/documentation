@@ -20,7 +20,7 @@ We are using a remote screensharing tool to collect data. You should walkthrough
 **Please turn on [Hangouts video conferencing](https://meet.google.com/eff-ngit-kzk) in Chrome for communication throughout all the sessions.** Group members should not discuss with each other about the predictive modeling problem (e.g., send emails or chat online) outside the experimental session. 
 
 ## Tools for Collaboration
-Please use [Experimentor](https://experimentor.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howto.md). Feel free to use other tools for collaboration.
+Please use [ExperimentorX](https://experimentorx.mentoracademy.org) for collaboratively editing Jupyter Notebooks. A detailed instruction could be find [here](howtogit.md). Feel free to use other tools for collaboration.
 
 ## Contact
 
